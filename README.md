@@ -23,6 +23,8 @@ python manage.py
 - 可以在conf/config.ini 中手动配置账号密码，也可以使用cconfig 命令配置
 - jww是教务网账号密码,com_login是统一认证登录账号密码
 
+![](https://upload-images.jianshu.io/upload_images/14069474-325da5a2928d3b1a.gif?imageMogr2/auto-orient/strip)
+
 
 ### 0x3插件
 >可以以插件的方式向现有的jww,sakai系统增加新的功能,只需要在plugin/sakai或者plugin/jww中添加文件即可
